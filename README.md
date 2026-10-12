@@ -112,9 +112,10 @@ The dataset includes sales records with the following fields:
 ## 🚀 How to Use
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/marwanyasser10-collab/BMW-Sales-Analytics.git
-Open the .pbix file using Power BI Desktop (free download from Microsoft).
+   Open the .pbix file using Power BI Desktop (free download from Microsoft).
 
 Refresh the data if needed:
 
@@ -134,7 +135,7 @@ Navigate between pages using the top buttons.
 Page 1 — BMW Sales Overview
 https://Screenshots/overview.png
 
-Page 2 — Customer & Sales Behavior
+Page 2 — Customer & Sales Behaviour
 https://Screenshots/customer.png
 
 Page 3 — Product & Time Analysis
@@ -151,7 +152,7 @@ Marwan Yasser
 
 GitHub: @marwanyasser10-collab
 
-LinkedIn: https://linkedin.com/in/marwan-yasser-a12891320
+LinkedIn: Marwan Yasser
 
 Email: marwanyasser010@gmail.com
 
