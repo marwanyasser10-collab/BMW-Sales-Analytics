@@ -134,7 +134,7 @@ Navigate between pages using the top buttons.
 Page 1 — BMW Sales Overview
 https://Screenshots/overview.png
 
-Page 2 — Customer & Sales Behaviour
+Page 2 — Customer & Sales Behavior
 https://Screenshots/customer.png
 
 Page 3 — Product & Time Analysis
