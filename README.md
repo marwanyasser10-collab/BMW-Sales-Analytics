@@ -115,48 +115,61 @@ The dataset includes sales records with the following fields:
 
    ```bash
    git clone https://github.com/marwanyasser10-collab/BMW-Sales-Analytics.git
-   Open the .pbix file using Power BI Desktop (free download from Microsoft).
+   ```
 
-Refresh the data if needed:
+2. **Open the `.pbix` file** using **Power BI Desktop** (free download from Microsoft).
 
-Go to Home → Refresh
+3. **Refresh the data** if needed:
+   - Go to `Home → Refresh`
+   - Update the data source path if you moved the dataset.
 
-Update the data source path if you moved the dataset.
+4. **Interact with the dashboard:**
+   - Use the **Slicers** (Country, Sales Channel, Date, Series, Year) to filter data.
+   - Click any visual to **cross-filter** other visuals.
+   - Navigate between pages using the top buttons.
 
-Interact with the dashboard:
+---
 
-Use the Slicers (Country, Sales Channel, Date, Series, Year) to filter data.
+## 🖼️ Screenshots
 
-Click any visual to cross-filter other visuals.
+### Page 1 — BMW Sales Overview
 
-Navigate between pages using the top buttons.
+![Sales Overview](Screenshots/overview.png)
 
-🖼️ Screenshots
-Page 1 — BMW Sales Overview
-https://screenshots/overview.png
+### Page 2 — Customer & Sales Behaviour
 
-Page 2 — Customer & Sales Behaviour
-https://screenshots/customer.png
+![Customer Behaviour](Screenshots/customer.png)
 
-Page 3 — Product & Time Analysis
-https://screenshots/product.png
+### Page 3 — Product & Time Analysis
 
-🔮 Future Improvements
-□ Add forecasting using Power BI's built-in analytics.
-□ Integrate real-time data via Power BI Service.
-□ Add RLS (Row-Level Security) for role-based access.
-□ Improve ML Accuracy by refining the prediction model.
-□ Publish dashboard to Power BI Service for web access.
-👤 Author
-Marwan Yasser
+![Product Analysis](Screenshots/product.png)
 
-GitHub: @marwanyasser10-collab
+---
 
-LinkedIn: Marwan Yasser
+## 🔮 Future Improvements
 
-Email: marwanyasser010@gmail.com
+- [ ] Add **forecasting** using Power BI's built-in analytics.
+- [ ] Integrate **real-time data** via Power BI Service.
+- [ ] Add **RLS (Row-Level Security)** for role-based access.
+- [ ] Improve **ML Accuracy** by refining the prediction model.
+- [ ] Publish dashboard to **Power BI Service** for web access.
 
-📄 License
-This project is licensed under the MIT License — see the LICENSE file for details.
+---
 
-⭐ If you found this project useful, don't forget to give it a star!
+## 👤 Author
+
+**Marwan Yasser**
+
+- GitHub: [@marwanyasser10-collab](https://github.com/marwanyasser10-collab)
+- LinkedIn: [Marwan Yasser](https://linkedin.com/in/marwan-yasser-a12891320)
+- Email: marwanyasser010@gmail.com
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+---
+
+⭐ **If you found this project useful, don't forget to give it a star!**
