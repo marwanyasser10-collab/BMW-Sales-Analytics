@@ -132,13 +132,13 @@ Navigate between pages using the top buttons.
 
 🖼️ Screenshots
 Page 1 — BMW Sales Overview
-https://screenshots/overview.png
+https://Screenshots/overview.png
 
 Page 2 — Customer & Sales Behaviour
-https://screenshots/customer.png
+https://Screenshots/customer.png
 
 Page 3 — Product & Time Analysis
-https://screenshots/product.png
+https://Screenshots/product.png
 
 🔮 Future Improvements
 □ Add forecasting using Power BI's built-in analytics.
