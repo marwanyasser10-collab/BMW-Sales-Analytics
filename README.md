@@ -13,7 +13,7 @@ An interactive **Power BI dashboard** designed to analyze BMW global sales perfo
 - [Tech Stack](#-tech-stack)
 - [Dataset](#-dataset)
 - [How to Use](#-how-to-use)
-- [Screenshots](#-screenshots)
+- [Screenshots](#-Screenshots)
 - [Future Improvements](#-future-improvements)
 - [Author](#-author)
 - [License](#-license)
