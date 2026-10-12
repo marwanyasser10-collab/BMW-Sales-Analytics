@@ -151,7 +151,7 @@ Marwan Yasser
 
 GitHub: @marwanyasser10-collab
 
-LinkedIn: Marwan Yasser
+LinkedIn: https://linkedin.com/in/marwan-yasser-a12891320
 
 Email: marwanyasser010@gmail.com
 
