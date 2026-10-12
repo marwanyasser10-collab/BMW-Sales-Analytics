@@ -13,7 +13,7 @@ An interactive **Power BI dashboard** designed to analyze BMW global sales perfo
 - [Tech Stack](#-tech-stack)
 - [Dataset](#-dataset)
 - [How to Use](#-how-to-use)
-- [Screenshots](#-Screenshots)
+- [Screenshots](#-screenshots)
 - [Future Improvements](#-future-improvements)
 - [Author](#-author)
 - [License](#-license)
@@ -133,13 +133,13 @@ Navigate between pages using the top buttons.
 
 🖼️ Screenshots
 Page 1 — BMW Sales Overview
-https://Screenshots/overview.png
+https://screenshots/overview.png
 
 Page 2 — Customer & Sales Behaviour
-https://Screenshots/customer.png
+https://screenshots/customer.png
 
 Page 3 — Product & Time Analysis
-https://Screenshots/product.png
+https://screenshots/product.png
 
 🔮 Future Improvements
 □ Add forecasting using Power BI's built-in analytics.
