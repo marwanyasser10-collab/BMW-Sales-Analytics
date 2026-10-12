@@ -149,7 +149,6 @@ Navigate between pages using the top buttons.
 
 ![Product Analysis](screenshots/product.png)
 
-📁 Place your screenshots inside a screenshots/ folder in the repo.
 
 🔮 Future Improvements
 □ Add forecasting using Power BI's built-in analytics.
